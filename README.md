@@ -1,4 +1,4 @@
-# FOS – Ain Shams University Educational Operating System
+# FOS – Ain Shams University OS!
 
 **FOS** is an educational operating system developed for the Operating Systems course at Ain Shams University. It is a refactored version of MIT's JOS (6.828) lab, tailored to enhance students' understanding of OS concepts through hands-on experience.
 
@@ -23,7 +23,5 @@
 ## Educational Resources
 
 The course provides comprehensive materials, including lab assignments and project guidelines, to support students in their learning journey. These resources are accessible through the university's official channels.
-
-## 🔗 GitHub Repositories
 
 If you need assistance with setting up the development environment or have specific questions about the OS components, feel free to ask.
