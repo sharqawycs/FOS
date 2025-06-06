@@ -1,1 +1,10 @@
 /bochs.log
+
+.DS_Store
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dSYM
+*.dylib 
